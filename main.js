@@ -58,4 +58,4 @@ function sayHi() {
     }
 }
 
-
+sayHi();
